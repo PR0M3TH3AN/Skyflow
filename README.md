@@ -19,7 +19,7 @@ Important Info: All images on the site must be links accessable online. You can 
 2. When you are ready to stop or "save" your document click the small pen icon labled "import"
 3. Then click on "Save as .gram file"
 4. Keep your downloaded .gram file safe as it contains your latest site edits
-5. To load your most recent edits back into Skyflow you simply need to click on "Load .gram file in the same "import section".
+5. To load your most recent edits back into Skyflow you simply need to click on "Load .gram file" in the same "import section".
 
 # How to export a completed project?
 
