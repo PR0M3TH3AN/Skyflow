@@ -1,8 +1,8 @@
 {
-  "name": "gramateria",
-  "version": "1.0.6",
+  "name": "Skyflow",
+  "version": "1.0",
   "private": true,
-  "description": "Open source drag and drop website builder with bootstrap 5",
+  "description": "A decentralised and open source drag and drop website builder with bootstrap 5",
   "main": "index.js",
   "scripts": {
     "gen": "mix",
@@ -12,21 +12,21 @@
     "dist": "electron-builder"
   },
   "keywords": [
-    "Gramateria",
-    "gramateria",
+    "Skyflow",
+    "skyflow",
     "webite",
     "grapejs",
     "builder",
     "drag and drop"
   ],
   "author": {
-    "name": "Ronald",
-    "email": "info@ronaldaug.work",
-    "url": "https://www.augusthost.com"
+    "name": "thePR0M3TH3AN",
+    "email": "",
+    "url": "http://skyflow.kco.hns.to/"
   },
   "build": {
-    "productName": "gramateria",
-    "appId": "com.augusthost.gramateria",
+    "productName": "Skyflow",
+    "appId": "",
     "directories": {
       "output": "export",
       "buildResources": "build"

@@ -11,10 +11,10 @@ let win
 
 function createWindow() {
     var template = [{
-            label: "Gramateria",
+            label: "Skyflow",
             submenu: [
                 {
-                    label: "About Gramateria",
+                    label: "About Skyflow",
                     selector: "orderFrontStandardAboutPanel:"
                 },
                 {
@@ -68,7 +68,7 @@ function createWindow() {
         }
     ];
     Menu.setApplicationMenu(Menu.buildFromTemplate(template));
-    
+
     // Create the browser window.
     win = new BrowserWindow({
         'node-integration': false,
@@ -82,10 +82,10 @@ function createWindow() {
         protocol: 'file:',
         slashes: true
     }))
-    
-    
+
+
 // debuging
-//    win.webContents.openDevTools() 
+//    win.webContents.openDevTools()
     // Emitted when the window is closed.
     win.on('closed', () => {
         // Dereference the window object, usually you would store windows
