@@ -35,7 +35,9 @@ Once you have your site design as an exported zip you can now easily host it on 
 You can also setup your own Handshake domain name and Skynet resolverlinks if you would like. Links to more information is below. 
 
 [Reslover Links](https://docs.siasky.net/skynet-topics/resolver-skylinks)
+
 [Handshake Domain Name](https://docs.siasky.net/developer-guides/setting-up-a-handshake-name)
+
 [Deploy to Skynet GitHub Action](https://docs.siasky.net/developer-guides/deploy-github-actions)
 
 ----
