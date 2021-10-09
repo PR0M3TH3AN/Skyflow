@@ -66,7 +66,7 @@ You can use the site directly by visiting [this resolver link](https://0400i72o3
 
 or
 
-You can add to your own Skynet Homescreen by clicking the button below. 
+You can add the Skyflow App directly to your own Skynet Homescreen by clicking the button below. 
 
 [![Add to Homescreen](https://img.shields.io/badge/Skynet-Add%20To%20Homescreen-00c65e?logo=skynet&labelColor=0d0d0d)](https://homescreen.hns.siasky.net/#/skylink/AQC2eIxnfa9ZhCM3jyztJa8DzJfrE3dkAmn7ckX1xbdgnw)
 
