@@ -21,7 +21,7 @@
   "name": "Gramateria",
   "description": "A drag and drop web builder",
   "iconPath": "./images/webclip.png",
-  "short_name": "SynapseSound",
+  "short_name": "Gramateria",
   "start_url": "./index.html",
   "theme_color": "#eaf3fe",
   "skylink": "AQC2eIxnfa9ZhCM3jyztJa8DzJfrE3dkAmn7ckX1xbdgnw"
