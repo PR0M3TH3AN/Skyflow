@@ -1,8 +1,8 @@
 {
   "background_color": "#fff",
   "display": "standalone",
-  "homepage_url": "gramateria.github.io",
-  "providedBy": { "name": "Gramateria", "url": "gramateria.github.io" },
+  "homepage_url": "http://skyflow.kco.hns.to/",
+  "providedBy": { "name": "Skyflow", "url": "http://skyflow.kco.hns.to/" },
   "icons": [
     {
       "src": "./images/webclip.png",
@@ -18,11 +18,11 @@
     }
   ],
   "orientation": "portrait",
-  "name": "Gramateria",
-  "description": "A drag and drop web builder",
+  "name": "Skyflow",
+  "description": "A decentralised drag and drop web builder",
   "iconPath": "./images/webclip.png",
-  "short_name": "Gramateria",
+  "short_name": "Skyflow",
   "start_url": "./index.html",
-  "theme_color": "#eaf3fe",
+  "theme_color": "#31BBEE",
   "skylink": "AQC2eIxnfa9ZhCM3jyztJa8DzJfrE3dkAmn7ckX1xbdgnw"
 }
