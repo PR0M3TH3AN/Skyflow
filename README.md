@@ -15,7 +15,7 @@ Show your support by 🌟 the project, thanks.
 
 Important Info: All images on the site must be links accessable online. You can esaly achieve this by first uploading any image assets your design my require to [Skynet](https://siasky.net/) first. You will see once you get started.
 
-1. [Go to](http://skyflow.kco.hns.to/) the live Skyflow site and start creating a project.
+1. Go to the live [Skyflow site](http://skyflow.kco.hns.to/) and start creating a project.
 2. When you are ready to stop or "save" your document click the small pen icon labled "import"
 3. Then click on "Save as .gram file"
 4. Keep your downloaded .gram file safe as it contains your latest site edits
