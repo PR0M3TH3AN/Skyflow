@@ -53,6 +53,7 @@ I am not a programer so there is really no way for me to create any of these thi
 1. Built in "Deploy to Skynet" integration rather than the current Netlify option.
 2. The ability to save your .gram file to your own MySky storage space.
 3. The ability to have and edit multiple site pages 
+4. It would also be cool if we had a database of .gram files so we could build off eachothers site designs. 
 
 ----
 
