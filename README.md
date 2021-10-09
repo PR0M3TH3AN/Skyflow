@@ -13,7 +13,7 @@ Show your support by 🌟 the project, thanks.
 ----
 # How to use Skyflow and save or import a project?
 
-Important Info: All images on the site must be links accessable online. You can esaly achieve this by first uploading any image assets your design my require to [Skynet](https://siasky.net/) first. You will see once you get started.
+Important Info: All images on the site must be links accessable online. You can esaly achieve this by first uploading any image assets your design may require to [Skynet](https://siasky.net/) first. You will see once you get started.
 
 1. Go to the live [Skyflow site](http://skyflow.kco.hns.to/) and start creating a project.
 2. When you are ready to stop or "save" your document click the small pen icon labled "import"
