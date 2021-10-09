@@ -50,7 +50,7 @@ Here is an example site made with and exported from Skyflow and uploaded to Sia 
 
 I am not a programer so there is really no way for me to create any of these things yet. But, I would like to see the following.
 
-1. Builtin "Deploy to Skynet" integration rather than the current Netlify option.
+1. Built in "Deploy to Skynet" integration rather than the current Netlify option.
 2. The ability to save your .gram file to your own MySky storage space.
 3. The ability to have and edit multiple site pages 
 
