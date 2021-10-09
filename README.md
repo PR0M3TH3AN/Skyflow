@@ -1,6 +1,7 @@
 # Skyflow - v1.0
 
 [Skyflow App](https://040bcu4cctuqumc44croub7d4mng7j4ntc9nep02d7tn4hflomrm17o.siasky.net/)
+[Skyflow Landing Page](https://0400i72o35kl9iblso87lm4l94vgbsf4r1pcco79h6p8etsetccdp18.siasky.net/)
 
 Skyflow is a decentralized drag and drop web builder which is built with Gramateria and GrapesJS but with a different delivery method using Skynet.
 
@@ -17,7 +18,7 @@ Show your support by 🌟 the project, thanks.
 
 Important Info: All images on the site must be links accessable online. You can esaly achieve this by first uploading any image assets your design may require to [Skynet](https://siasky.net/) first. You will see once you get started.
 
-1. Go to the live [Skyflow app site](https://0400i72o35kl9iblso87lm4l94vgbsf4r1pcco79h6p8etsetccdp18.siasky.net/) and start creating a project.
+1. Go to the live [Skyflow App Site](https://040bcu4cctuqumc44croub7d4mng7j4ntc9nep02d7tn4hflomrm17o.siasky.net/) and start creating a project.
 2. When you are ready to stop or "save" your document click the small pen icon labled "import"
 3. Then click on "Save as .gram file"
 4. Keep your downloaded .gram file safe as it contains your latest site edits
