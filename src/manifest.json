@@ -19,7 +19,7 @@
   ],
   "orientation": "portrait",
   "name": "Skyflow",
-  "description": "A decentralised drag and drop web builder",
+  "description": "A decentralized drag and drop web builder",
   "iconPath": "./images/webclip.png",
   "short_name": "Skyflow",
   "start_url": "./index.html",
