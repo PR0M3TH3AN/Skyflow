@@ -1,0 +1,63 @@
+{
+  "name": "gramateria",
+  "version": "1.0.6",
+  "private": true,
+  "description": "Open source drag and drop website builder with bootstrap 5",
+  "main": "index.js",
+  "scripts": {
+    "gen": "mix",
+    "watch": "mix watch",
+    "start": "electron index.js",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "keywords": [
+    "Gramateria",
+    "gramateria",
+    "webite",
+    "grapejs",
+    "builder",
+    "drag and drop"
+  ],
+  "author": {
+    "name": "Ronald",
+    "email": "info@ronaldaug.work",
+    "url": "https://www.augusthost.com"
+  },
+  "build": {
+    "productName": "gramateria",
+    "appId": "com.augusthost.gramateria",
+    "directories": {
+      "output": "export",
+      "buildResources": "build"
+    },
+    "win": {
+      "asar": false,
+      "target": "nsis",
+      "icon": "build/icon.ico"
+    },
+    "mac": {
+      "icon": "build/icon.png"
+    },
+    "nsis": {
+      "installerIcon": "build/icon.ico",
+      "installerHeaderIcon": "build/icon.ico",
+      "deleteAppDataOnUninstall": true
+    }
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "asar": "^0.14.6",
+    "electron": "^9.4.0",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.35.2",
+    "sass-loader": "^12.1.0",
+    "electron-builder": "^22.10.5"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "jszip": "^3.6.0",
+    "laravel-mix": "^6.0.25",
+    "notyf": "^3.10.0"
+  }
+}

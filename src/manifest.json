@@ -1,0 +1,28 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "gramateria.github.io",
+  "providedBy": { "name": "Gramateria", "url": "gramateria.github.io" },
+  "icons": [
+    {
+      "src": "./images/webclip.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/webclip.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "Gramateria",
+  "description": "A drag and drop web builder",
+  "iconPath": "./images/webclip.png",
+  "short_name": "SynapseSound",
+  "start_url": "./index.html",
+  "theme_color": "#eaf3fe",
+  "skylink": ""
+}
