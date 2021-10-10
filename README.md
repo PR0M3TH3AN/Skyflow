@@ -4,6 +4,8 @@
 
 [Skyflow Landing Page](https://0400i72o35kl9iblso87lm4l94vgbsf4r1pcco79h6p8etsetccdp18.siasky.net/)
 
+The GitHub repository for the landing page is located [here](https://github.com/PR0M3TH3AN/SkyflowWebsite)
+
 Skyflow is a decentralized drag and drop web builder which is built with Gramateria and GrapesJS but with a different delivery method using Skynet.
 
 ### Credits
