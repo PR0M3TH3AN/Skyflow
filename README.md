@@ -52,6 +52,15 @@ Here is an example site made with and exported from Skyflow and uploaded to Sia 
 [Example Site](https://3008ppd6evjsudc7on71l4n3099pt525h6vb4d1rspkb4bfepqmhj6g.siasky.net/)
 
 ----
+#Skyflow Templates
+
+You can follow the link below to download these templates as .gram files and use as your own.
+
+[Skyflow Website](https://2g0da2263plbcdmi9n1nnck3rd5009ruiuip4adtrgno6c77i232pho.siasky.net/) Date: 10-10-2021
+
+Add your own templates!
+
+----
 # Road map
 
 I am not a programmer, so there is really no way for me to create any of these things yet. But, I would like to see the following.
