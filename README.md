@@ -52,7 +52,7 @@ Here is an example site made with and exported from Skyflow and uploaded to Sia 
 [Example Site](https://3008ppd6evjsudc7on71l4n3099pt525h6vb4d1rspkb4bfepqmhj6g.siasky.net/)
 
 ----
-#Skyflow Templates
+# Skyflow Templates
 
 You can follow the link below to download these templates as .gram files and use as your own.
 
