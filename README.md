@@ -58,7 +58,7 @@ You can follow the link below to download community made templates as .gram file
 
 [Skyflow Template Database](https://0001cf77aies6hse4ulouf0nggtufkq4nck15e2qkhf0a0nb7gm5on0.siasky.net/#/v2/beb3f529250207a23b434c12ea8e6203d019896b350c839700517910f661f0178f876d07dbf8f2c07570dfd027b4d77ae3466f4ed59f73e6288ebb573704812f/fced4ed846f8f5f72d1ed6f0d1e4c71f59a359318aa1f238227fb06ff329e57467a9fc0364520f80c541e83237927ce942a7992abb8d8b004b29d776684480dd) 
 
-Feel free to add your own templates!
+Feel free to add your own templates! Please don't delete anyone else's .gram templates.
 
 ----
 # Road map
